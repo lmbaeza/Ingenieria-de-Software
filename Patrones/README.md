@@ -1,7 +1,4 @@
-# Ingenieria-de-software
-Notas de Clase de la Materia Ingenieria de Software II
-
-## Contenido
+# Patrones
 
 * Diseño de Patrones de Software
     * Patrones Creacionales
