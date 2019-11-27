@@ -4,8 +4,8 @@ Es un patron de diseño que permite limitar a uno el número de instancias posib
 
 ## Contenido
 
-* Singleton implementación en Python
-* Singleton implementación en Java
+* [Singleton implementación en Python](#singleton-implementación-en-python)
+* [Singleton implementación en Java](#singleton-implementación-en-java)
 
 ## Singleton implementación en Python
 
